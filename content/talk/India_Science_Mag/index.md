@@ -1,5 +1,5 @@
 ---
-title: India Science Magazine
+title: Featured Newapapers, Magazines
 
 event: Interview by India Science Magazine
  event_url: https://drive.google.com/file/d/1-Pmi7_4MLH-BOqkjdbs4kuBbxTKdYNbn/view?usp=drivesdk
