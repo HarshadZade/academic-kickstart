@@ -13,3 +13,4 @@ external_link: "https://www.aidbots.in/#/"
 image:
   caption: Sahayak Robot
   focal_point: Smart
+---
