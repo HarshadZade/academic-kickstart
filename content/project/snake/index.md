@@ -1,6 +1,6 @@
 ---
-title: Bi-Serpentine Quadrupedal robot (BiSerQ)
-summary: Designed snake robots capable of re-configuring into quadraped by attaching together and performing a static gate of a quadraped. Each snake module can individually perform all the gates that any normal snake performs.
+title:  Reconfigurable Quadrupedal-Bipedal Snake Robots (ReQuBiS)
+summary: A re-configurable robot which can transition into biped, quadruped and snake configurations without any re-arrangement of modules. 
 tags:
 - Bio-inspired Robotics
 - Snake Robots
@@ -11,7 +11,7 @@ date: "2020-02-27"
 external_link: ""
 
 image:
-  caption: Bi-Serpentine Quadrupedal robot (BiSerQ)
+  caption: Reconfigurable Quadrupedal-Bipedal Snake Robots (ReQuBiS)
   focal_point: Smart
 
 links:
@@ -22,7 +22,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://youtu.be/oUigwOep0qc"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -34,14 +34,7 @@ slides: example
 
 <span style="color:blue">**Abstract**</span>
 
-Snake robots provide an efficient mobility solution  for traversing through pipes, crevasses and rough terrain but are limited when traversing over structured environments. Also, autonomous path planning is still a challenging area for snakes.
-In comparison, legged robots do not suffer from these limitations but may not be as robust as snake robots when moving in rough terrain.
-In general, snakes and legged robots have different efficiencies, speed, payload capacity, etc., depending on the type of environment that the robot is trying to traverse. 
-Furthermore, similar trade-offs exists for different type of legged robots such as biped and quadrupeds. 
-A large body of prior work exists on re-configurable robots to get the best of all these worlds.
-However, most of these solutions consist of a large number of complicated mechanisms to detach and re-attach at different places making the system fragile and increase its size, weight and powe (SWaP).
-We propose a **Bi-Serpentine Quadrupedal robot (BiSerQ)** that easily transforms from snake robots to a quadruped with minimal change in modules.
-Experimental results on hardware demonstrate the mobility in both snake and quadruped modes and transition between them.
-
+Selection of mobility modes for robot navigation consists of various trade-offs. Snake robots are ideal for traversing through constrained environments such as pipes, cluttered  and rough terrain whereas bipedal robots are more suited for structured environments such as stairs. Finally, quadruped robots are more agile than bipeds and can carry larger payloads than snake robots but struggle to navigate through soft soil, sand, ice and constrained environments. A Re-configurable robot can achieve the best of all worlds.
+Unfortunately, state-of-the-art re-configurable robots rely on rearrangement of modules through complicated mechanisms to dissemble and assemble at different places which increases its size, weight and power (SWaP) requirements. We propose Re-configurable Quadrupedal-Bipedal Snake Robots (ReQuBiS) which is capable of transforming between mobility modes without any rearrangement of modules. Hence, requiring just a single modification mechanism. Furthermore, our design allows the robot to split into two agents to perform tasks in parallel for biped and snake mobility. Experimental results demonstrate these mobility capabilities in snake, quadruped and biped modes along with transition between them.
 
 
