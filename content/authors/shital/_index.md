@@ -4,10 +4,10 @@ name: Harshad Zade
 
 # Username (this should match the folder name)
 authors:
-- admin
+- shital
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Junior Year Undergraduate Student
@@ -63,14 +63,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#- Researchers
+user_groups:
+- Mentors
 #- Visitors
 ---
-
-Robotics has always fascinated me, especially electronics and hardware design. It is my hobby to develop and implement new ideas. I aim to contribute to this domain through research and continuous practice.
-
-I have been working on embedded systems under [Dr. Shital Chiddarwar](http://mec.vnit.ac.in/people/sschiddarwar/) at [IvLabs](http://www.ivlabs.in/) since my sophomore. My newly found interest is in Bio-inspired Robotics in general and Snake robots particularly.
-
-Apart from robotics, I like playing cricket, listening to music and playing tabla. I also spend some in conducting workshops for the freshmen to promote a technical culture in the college.
+Harshad is a good student.
 
