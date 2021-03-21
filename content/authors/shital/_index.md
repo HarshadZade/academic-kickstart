@@ -9,15 +9,15 @@ authors:
 superuser: false
 
 # Role/position
-role: ASSOCIATE PROFESSOR MECHANICAL ENGINEERING VNIT
+role: ASSOCIATE PROFESSOR MECHANICAL ENGINEERING
 
 # Organizations/Affiliations
 organizations:
-- name: NASA's Jet Propulsion Laboratory
-  url: "https://www.jpl.nasa.gov/"
+- name: Visvesvaraya National Institute of Technology
+  url: "http://vnit.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Controls and Planning
+bio: Artificial intelligence, Industrial robot motion planning 
 
 # interests:
 # - Robotics
@@ -44,7 +44,7 @@ social:
 #  link: https://twitter.com/harshad_zade
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/rohanthakker/
+  link: https://www.linkedin.com/in/shital-chiddarwar-ph-d-5a7173b6/
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=V2yrxx4AAAAJ&hl=en
